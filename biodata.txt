@@ -1,0 +1,7 @@
+biodata aba aula
+
+nama: aba aula
+kelas: 11
+jurusan: rekayasa perangkat lunak
+sekolah: SMK Mamba'ul Ihsan
+asal kota:gresik
